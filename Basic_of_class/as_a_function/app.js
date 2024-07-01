@@ -8,3 +8,5 @@ function User(name, age) {
 const User3 = User("John", 30);
 // console.log(User1, User2, User3);
 console.log(User.age);
+
+//  create palendrome cod
